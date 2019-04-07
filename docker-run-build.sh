@@ -1,0 +1,1 @@
+docker run -v `pwd`/../xinu:/src cubuspl42/xinu-build sh /build.sh
